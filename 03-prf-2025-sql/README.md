@@ -167,8 +167,8 @@ Durante o projeto foram utilizados:
 │   ├── condicao_metereologica_percentual_letalidade.csv
 │   ├── gravidade_fase_dia.csv
 │   ├── letalidade_tipo_pista.csv
-│   └── tipo_acidente_ocorrencias_fatais.csv
-│   └── top_30_br_mais_letais.csv
+│   ├── tipo_acidente_ocorrencias_fatais.csv
+│   ├── top_30_br_mais_letais.csv
 │   ├── vw_bivariada_tipo_acidente.csv
 │   ├── vw_indicadores_uf_br.csv
 │   ├── vw_indicadores_mensais.csv
