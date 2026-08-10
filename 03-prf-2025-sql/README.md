@@ -202,7 +202,6 @@ O projeto deve conter:
 │   └── tipo_acidente_ocorrencias_fatais.csv
 │   └── top_30_br_mais_letais.csv
 │   ├── vw_bivariada_tipo_acidente.csv
-│   ├── vw_bivariada_tipo_acidente(1).csv
 │   ├── vw_indicadores_uf_br.csv
 │   ├── vw_indicadores_mensais.csv
 └── README.md
