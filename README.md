@@ -1,8 +1,19 @@
 # Projetos Aponti
 
 Repositório que reúne projetos, exercícios e estudos desenvolvidos durante minha formação na Aponti, com foco em análise de dados, programação, banco de dados e visualização de informações.
+Trilha: Análise de Dados — Data Analytics com Dados Abertos da PRF
 
-## Projetos
+## Módulo 1: Fundamentos de Data Analytics
+### Trilha: Análise de Dados — Data Analytics com Dados Abertos da PRF
+
+O Projeto Aponti — Módulo 1 analisa acidentes ocorridos em rodovias federais brasileiras em 2025, a partir dos Dados Abertos da Polícia Rodoviária Federal (PRF). A análise utiliza informações sobre localização, data, horário, tipo e causa dos acidentes, condições da via e meteorológicas, além do número de pessoas envolvidas, feridos e mortos.
+
+O foco do projeto está na identificação e análise de acidentes com vítimas fatais, buscando compreender sua distribuição e suas principais características a partir dos dados disponíveis. Para isso, foi criada a variável-alvo do projeto **acidente_fatal** — variável binária derivada do campo mortos, seguindo esta definição:
+
+acidente_fatal = 1 → mortos ≥ 1
+acidente_fatal = 0 → mortos = 0
+
+## UNIDADES
 
 ### 01 — Excel | Operações e Análise de Dados
 
