@@ -180,7 +180,7 @@ O projeto deve conter:
 4. **Visão agregada**
    View consolidada para utilização em dashboards.
 
-## Estrutura sugerida
+## Estrutura deste projeto
 
 ```text
 03-prf-2025-sql/
@@ -189,17 +189,18 @@ O projeto deve conter:
 │   └── acidentes_prf_2025.csv
 │
 ├── sql/
-│   └── analise_prf_2025.sql
+│   └── modulo3_prf.sql
+│   └── data_base_modulo3_prf.db
 │
 ├── resultados/
-│   ├── por_uf.csv
-│   ├── por_br.csv
-│   ├── por_mes.csv
-│   ├── por_causa.csv
-│   ├── por_tipo.csv
-│   ├── por_clima.csv
-│   └── por_fase_dia.csv
-│
+│   ├── acidentes_por_mes.csv
+│   ├── acidentes_por_uf.csv
+│   ├── combina_tipo_pista_condi_metereologica.csv
+│   ├── condicao_metereologica_percentual_letalidade.csv
+│   ├── gravidade_fase_dia.csv
+│   ├── letalidade_tipo_pista.csv
+│   └── tipo_acidente_ocorrencias_fatais.csv
+│   └── top_30_br_mais_letais.csv
 └── README.md
 ```
 
