@@ -148,38 +148,6 @@ Durante o projeto foram utilizados:
 * `PRAGMA table_info`
 * `strftime`
 
-## SQLiteOnline
-
-O projeto foi adaptado para execução no **SQLiteOnline**.
-
-Algumas operações presentes em outros bancos, como DuckDB, possuem sintaxe ou procedimentos diferentes no SQLite. Entre as adaptações realizadas estão:
-
-| DuckDB                   | SQLiteOnline                          |
-| ------------------------ | ------------------------------------- |
-| `read_csv_auto()`        | Importação do CSV pela interface      |
-| `DESCRIBE`               | `PRAGMA table_info()`                 |
-| `CREATE OR REPLACE VIEW` | `DROP VIEW IF EXISTS` + `CREATE VIEW` |
-| `EXTRACT(YEAR/MONTH)`    | `strftime()`                          |
-| `COPY ... TO CSV`        | Exportação pela interface             |
-
-A importação e a exportação dos arquivos CSV são realizadas pela interface do SQLiteOnline.
-
-## Entregáveis
-
-O projeto deve conter:
-
-1. **Script SQL comentado**
-   Arquivo `.sql` com as consultas documentadas e reexecutáveis.
-
-2. **Resultados em CSV**
-   Resultados das consultas por UF, BR, mês, causa, tipo, clima e fase do dia.
-
-3. **Consultas bivariadas**
-   Análises cruzando diferentes variáveis com `acidente_fatal`.
-
-4. **Visão agregada**
-   View consolidada para utilização em dashboards.
-
 ## Estrutura deste projeto
 
 ```text
@@ -206,24 +174,3 @@ O projeto deve conter:
 │   ├── vw_indicadores_mensais.csv
 └── README.md
 ```
-
-## Exercícios complementares
-
-Como extensão da análise, foram propostos exercícios envolvendo:
-
-* Acidentes por município;
-* Mortes por dia da semana;
-* Comparação entre áreas urbanas e rurais;
-* UFs acima da taxa global de fatalidade;
-* Indicadores por município e BR;
-* Cobertura, confiança e Lift por causa;
-* Séries mensais por UF;
-* Combinações entre condição meteorológica e fase do dia;
-* Base contendo apenas acidentes fatais;
-* Discussão sobre associação e causalidade.
-
-## Observação metodológica
-
-As análises realizadas neste projeto são **descritivas**. Uma associação identificada entre uma característica do acidente e a taxa de fatalidade não significa, por si só, que exista uma relação causal.
-
-A interpretação dos resultados deve considerar também o volume de ocorrências, a cobertura de cada grupo e as características específicas dos dados.
