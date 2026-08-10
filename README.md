@@ -1,7 +1,6 @@
 # Projetos Aponti
 
 Repositório que reúne projetos, exercícios e estudos desenvolvidos durante minha formação na Aponti, com foco em análise de dados, programação, banco de dados e visualização de informações.
-Trilha: Análise de Dados — Data Analytics com Dados Abertos da PRF
 
 ## Módulo 1: Fundamentos de Data Analytics
 ### Trilha: Análise de Dados — Data Analytics com Dados Abertos da PRF
