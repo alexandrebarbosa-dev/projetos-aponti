@@ -4,6 +4,28 @@ Repositório que reúne projetos, exercícios e estudos desenvolvidos durante mi
 
 ## Projetos
 
+### 01 — Excel | Operações e Análise de Dados
+
+Projeto de análise de dados utilizando Excel, com foco na realização de operações, aplicação de funções estatísticas e construção de visualizações.
+
+O projeto envolve operações matemáticas, travamento de células, identificação de valores máximos e mínimos, remoção de duplicatas, funções de contagem e soma, medidas estatísticas, quartis e PROCV.
+
+Também inclui a construção de cinco gráficos e, como atividade extra, uma tabela dinâmica.
+
+**Tecnologias:** Microsoft Excel.
+
+### 02 — PRF 2025 | Excel
+
+Projeto de análise e visualização dos dados de acidentes da Polícia Rodoviária Federal de 2025 utilizando Excel.
+
+O projeto envolve organização e classificação dos dados, criação de indicadores, aplicação de fórmulas, estatísticas descritivas, consultas com PROCV e construção de um dashboard executivo.
+
+Foram trabalhadas análises de proporção, gravidade, tendência central, quartis, contagens e relações entre diferentes características dos acidentes.
+
+O projeto também inclui a construção de gráficos de dispersão, rosca ou pizza, barras horizontais, linhas e colunas empilhadas, além de um painel de consulta dinâmica.
+
+**Tecnologias:** Microsoft Excel.
+
 ### 03 — PRF 2025 | SQL
 
 Projeto de análise dos dados de acidentes da Polícia Rodoviária Federal de 2025 utilizando SQL e SQLite.
