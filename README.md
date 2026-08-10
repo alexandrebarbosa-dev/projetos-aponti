@@ -4,12 +4,6 @@ Repositório que reúne projetos, exercícios e estudos desenvolvidos durante mi
 
 ## Projetos
 
-### 02 — Escola Tech
-
-Projetos e exercícios desenvolvidos durante a formação na Escola Tech, envolvendo fundamentos de programação, análise de dados e desenvolvimento de soluções práticas.
-
-**Tecnologias:** Python, SQL e ferramentas de análise de dados.
-
 ### 03 — PRF 2025 | SQL
 
 Projeto de análise dos dados de acidentes da Polícia Rodoviária Federal de 2025 utilizando SQL e SQLite.
@@ -25,6 +19,12 @@ Projeto de preparação e análise dos dados de acidentes da Polícia Rodoviári
 O projeto envolve tratamento de dados, análise exploratória, criação de indicadores de gravidade, construção de uma variável-alvo, preparação de bases analítica e modelável e validações para análise posterior.
 
 **Tecnologias:** Python, Pandas, Jupyter Notebook e Power BI.
+
+### Extra — Escola Tech
+
+Projetos e exercícios desenvolvidos durante a formação na Escola Tech, envolvendo fundamentos de programação, análise de dados e desenvolvimento de soluções práticas.
+
+**Tecnologias:** Python, SQL e ferramentas de análise de dados.
 
 ## Organização
 
