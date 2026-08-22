@@ -1,4 +1,4 @@
-# Projeto — Atividades de Excel
+# Projeto — Analise de Dados - Fundamentos de Data Analytics 1
 
 ## Sobre o projeto
 
