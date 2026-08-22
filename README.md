@@ -15,7 +15,7 @@ acidente_fatal = 0 → mortos = 0
 
 ## UNIDADES
 
-### 01 — Excel | Operações e Análise de Dados
+### 01 — Análise de Dados - Fundamentos de Data Analytics (Excel | Operações e Análise de Dados)
 
 Projeto de análise de dados utilizando Excel, com foco na realização de operações, aplicação de funções estatísticas e construção de visualizações.
 
@@ -25,7 +25,7 @@ Também inclui a construção de cinco gráficos e, como atividade extra, uma ta
 
 **Tecnologias:** Microsoft Excel.
 
-### 02 — PRF 2025 | Excel
+### 02 — Análise de Dados - Excel para Análise de Dados da PRF 2025
 
 Projeto de análise e visualização dos dados de acidentes da Polícia Rodoviária Federal de 2025 utilizando Excel.
 
@@ -37,7 +37,7 @@ O projeto também inclui a construção de gráficos de dispersão, rosca ou piz
 
 **Tecnologias:** Microsoft Excel.
 
-### 03 — PRF 2025 | SQL
+### 03 — Análise de Dados - SQL com DuckDB ou SQLite PRF 2025
 
 Projeto de análise dos dados de acidentes da Polícia Rodoviária Federal de 2025 utilizando SQL e SQLite.
 
@@ -45,7 +45,7 @@ O projeto envolve consultas, agregações, criação de indicadores, análise da
 
 **Tecnologias:** SQL e SQLite.
 
-### 04 — PRF 2025 | Python
+### 04 — Análise de Dados - Preparação dos Dados com Python PRF 2025
 
 Projeto de preparação e análise dos dados de acidentes da Polícia Rodoviária Federal de 2025 utilizando Python e Pandas.
 
