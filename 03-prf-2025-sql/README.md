@@ -1,6 +1,6 @@
 # Módulo 3 — SQL com SQLite
 
-## Projeto: Data Analytics com Dados Abertos da PRF
+## Projeto: Data Analytics com Dados Abertos da PRF - SQL com DuckDB ou SQLite
 
 Análise de acidentes rodoviários registrados pela **Polícia Rodoviária Federal (PRF)** em 2025, utilizando **SQL e SQLiteOnline**.
 
