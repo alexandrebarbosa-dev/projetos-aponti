@@ -1,4 +1,4 @@
-# Projeto 02 — Escola Tech | Analista de Banco de Dados
+# Projeto Escola Tech | Analista de Banco de Dados
 
 ## Sobre o projeto
 
