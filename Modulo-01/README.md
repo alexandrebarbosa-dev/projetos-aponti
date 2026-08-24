@@ -1,8 +1,3 @@
-# Projetos Aponti
-
-Repositório que reúne projetos, exercícios e estudos desenvolvidos durante minha formação na 4ª edição da Formação Acelerada em Programação - FAP, programa de capacitação profissional na área de Tecnologia da Informação, 
-executado pelo Centro de Excelência em Tecnologia de Software de Pernambuco (APONTI), com foco em análise de dados, programação, banco de dados e visualização de informações.
-
 ## Módulo 1: Fundamentos de Data Analytics
 ### Trilha: Análise de Dados — Data Analytics com Dados Abertos da PRF
 
