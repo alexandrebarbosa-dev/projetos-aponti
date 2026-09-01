@@ -8,7 +8,7 @@ Realizar uma análise exploratória dos acidentes registrados pela Polícia Rodo
 
 A análise busca responder, inicialmente, **onde, quando e em quais circunstâncias os acidentes acontecem**, criando pontos de partida para investigações mais aprofundadas sobre os fatores associados à mortalidade nas estradas.
 
-Nesta atividade, o objetivo foi produzir 3 frequências, 3 rankings e 1 série temporal.
+Nesta atividade, o objetivo foi produzir 3 frequências, 3 rankings e 1 série temporal e listar aqui as observações feita a partir desses dados.
 
 ---
 
