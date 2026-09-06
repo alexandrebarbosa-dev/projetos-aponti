@@ -1,1 +1,2 @@
-
+Relatório - Relatorio_Analitico_EDA.docx.pdf
+Notebook - EDA_—_Indicadores_e_Fatores_Associados_a_Acidentes_Fatais.ipynb
